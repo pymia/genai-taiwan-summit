@@ -1,0 +1,26 @@
+ITEM_ID,PRICE,CATEGORY_L1,CATEGORY_L2,PRODUCT_DESCRIPTION,GENDER,PROMOTED
+59b0aeff-c1cc-4d7c-b928-dec5457942e0,9.99,beauty,grooming,A must-have in every bathroom,Any,N
+e6acc24d-9e56-478f-ba8f-5b9f7924065e,13.99,housewares,bowls,This elegant ceramic bowl is a must-have,Any,N
+3630053e-3962-4549-bcce-402c3a980557,71.99,housewares,kitchen,A must-have for your kitchen,Any,Y
+ee7b59b1-4621-45a5-9a47-7fc9f74719a5,71.99,housewares,kitchen,A must-have for your kitchen,Any,N
+36b48063-8713-414b-b09c-f077c47e109e,65.99,housewares,kitchen,Incomparable for every kitchen,Any,N
+b947ee58-a7e7-40bf-9926-42a445f3480f,57.99,housewares,kitchen,A must-have for your kitchen,Any,N
+26bb732f-9159-432f-91ef-bad14fedd298,58.99,housewares,kitchen,Unparalleled for every kitchen,Any,N
+f3e1ad7a-6dba-4533-ab0d-4090783e1dc9,59.99,housewares,kitchen,A must-have for your kitchen,Any,N
+072ded32-2903-4f35-9f28-d6284c5f5605,61.99,housewares,kitchen,Ideal for every kitchen,Any,N
+d537d92a-23fe-4673-a697-795652ff10c8,73.99,housewares,kitchen,Unsurpassed for every kitchen,Any,N
+d213463b-d3db-47bb-8258-31bb33fbea33,55.99,housewares,kitchen,A must-have for your kitchen,Any,N
+7bb6d3ff-19e3-4bf7-9b8a-71dd0d19cde3,51.99,housewares,kitchen,A must-have for your kitchen,Any,N
+5f4badb3-6313-44ee-b1a6-f6d644e4b8ad,53.99,housewares,kitchen,Incomparable for every kitchen,Any,N
+78c089ed-2eba-41f2-9977-ec294f91c123,71.99,housewares,kitchen,Unsurpassed for every kitchen,Any,N
+0cfb40f1-8122-4a30-bd6e-9524b70d30b2,70.99,housewares,kitchen,Unsurpassed for every kitchen,Any,N
+dc161c25-cb7b-4654-8abd-df7b6a9c0b43,56.99,housewares,kitchen,Unsurpassed for every kitchen,Any,N
+ab23a70b-b19b-466c-8318-01be486dedf3,51.99,housewares,kitchen,Unrivaled for every kitchen,Any,N
+ba0c2cb6-26b8-488f-81ad-0fa52eb04940,9.99,tools,axe,This axe is a must-have for your toolbox,Any,N
+89b22997-f0a4-4846-9683-2d10f65bb45a,16.99,tools,hammer,This hammer is a must-have for your toolbox,Any,Y
+47549d7f-6352-4128-8e48-dbb838cd3b4c,15.99,tools,hammer,Essential hammer for every craftperson,Any,Y
+f9446e88-fe6e-4601-8f47-7529f80bbac5,18.99,tools,knife,This knife is a must-have for your toolbox,Any,N
+f5aea4cc-13dc-492b-a744-27a5e3f718cf,13.99,tools,screwdriver,Essential screwdriver for every craftperson,Any,N
+61840d6a-6ba2-4ece-a644-6db6a3377b1c,14.99,tools,set,Essential set for every craftperson,Any,N
+b93b7b15-9bb3-407c-b80b-517e7c45e090,15.99,tools,wrench,Essential wrench for every craftperson,Any,Y
+7cfd10d1-ff92-4513-b688-0ee179deaaef,12.0,beauty,grooming,Pimples? Invisible. Warts? Never happened. No need for witchcraft when you have science!,F,N
