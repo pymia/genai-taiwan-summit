@@ -1,4 +1,7 @@
 {
+    "LLM_API_URL": "api url goes here",
+    "SD_API_URL": "api url goes here",
+    "P13N_API_URL": "api url goes here",
     "LLM_KEY": "key goes here",
     "SD_KEY": "key goes here",
     "P13N_KEY": "key goes here"

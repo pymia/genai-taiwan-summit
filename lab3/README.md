@@ -1,4 +1,4 @@
-# Personalized Movie Tag-Line & Poster Generation using Amazon SageMaker JumpStart and Amazon Personalize
+# Personalized Product Tag-Line & Poster Generation using Amazon SageMaker JumpStart and Amazon Personalize
 
 
 ## Objective
@@ -33,7 +33,7 @@ Go to [notebook](./personalized-tag-lines.ipynb) to gain your hands-on experienc
 Note that the data we use for both users and products (located in `./data`) are all made up.
 
 
-## Acknowlege
+## Acknowledge
 
 The initial version of the content is an AWS example crafted by talented AWS professionals, and we anticipate that it will be available on GitHub shortly.
 
