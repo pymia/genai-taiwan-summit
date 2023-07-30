@@ -36,12 +36,12 @@ def get_product_recommendations(user_id, use_personalize_api, api_key, api_endpo
                 }
             )    
             recommendations = json.loads(response.content.decode('utf-8'))
-            recommendations = [rec["itemId"] for rec in recommendations]
+            recommendations = [rec["itemId"] for rec in recommendations][:1]
         else:
             # load example recommendations from a csv file
             df = pd.read_csv('./data/example_recommendations_retail.csv')
             df = df[df.user_id == user_id]
-            recommendations = list(df.item_id.values[:3])
+            recommendations = list(df.item_id.values[:1])
         return recommendations
     
     except Exception as err:
