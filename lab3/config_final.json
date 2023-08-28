@@ -1,0 +1,12 @@
+{
+    "LLM_API_URL": "https://8adjmknjml.execute-api.us-west-2.amazonaws.com/Prod/model-gallery",
+    "SD_API_URL": "https://3c8aisz2k5.execute-api.us-west-2.amazonaws.com/Prod/model-gallery",
+    "SDXL_API_URL": "https://0zq70e3ds9.execute-api.us-west-2.amazonaws.com/Prod/model-gallery",
+    "P13N_API_URL": "https://tbwt6a0236.execute-api.us-west-2.amazonaws.com/Prod/model-gallery",
+    "LLM_KEY": "grPtacX58O35H2VNbhaOM27pZMKgbQT02pCkAGfO",
+    "SD_KEY": "SOAgionobk4suDvHbUeAU2VInutNxPSZ6qo0GeAX",
+    "SDXL_KEY": "YsCsLGqkKjH3r4XLrScl3NPXTaToqv9Yz65KDD50",
+    "P13N_KEY": "EkzponpjFO4Av00d1B2nR6OeGwGMri4e72pVjMFA"
+}
+
+
